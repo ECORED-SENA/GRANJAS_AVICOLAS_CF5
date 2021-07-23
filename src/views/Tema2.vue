@@ -27,7 +27,7 @@
         .h5 Figura 5
         p.mt-3 Flujograma del costo de ventas
     figure.mt-4
-      img(src="@/assets/template/tema-2-3.png" , alt="Texto que describa la imagen")
+      img(src="@/assets/template/tema-2-3.svg" , alt="Texto que describa la imagen")
       figcaption.mt-3 Referencia Nota. Figura adaptada de “Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL”, p. 260.
     .row.mt-5 
       .col-10.col-lg-8.offset-1.offset-lg-2
@@ -228,7 +228,7 @@
       #t_2_3.h4 2.3	Estado de situación financiera              
     p.mt-4 La finalidad de este informe es ofrecer al usuario de la información, una imagen de la estructura financiera de la empresa a una fecha en concreto. Las tres categorías principales del estado son el activo, el pasivo y el patrimonio. 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-gris")
-      .row(titulo="Patrimonio")
+      .row(titulo="Activo")
         p Incluye todos los recursos controlados por la entidad, sobre los cuales se espera obtener algún beneficio económico a futuro. Su composición varía según el tipo de empresa, por ejemplo, una organización dedicada a la producción tendrá una composición donde la maquinaria y equipo tomarán más importancia que en una empresa dedicada a la prestación de servicios. Los recursos aquí designados tienen como propósito principal, cubrir las obligaciones futuras y permitir la operación permanente.
         .row
           .col-8.offset-2
@@ -420,7 +420,7 @@
       #t_2_4.h4 2.4	Presentación de estados financieros 
     p.mt-4 Las normas internacionales de información financiera para pequeñas y medianas empresas (2015) demandan una serie de requisitos a la hora de presentar los estados financieros. Entre ellos destacan los siguientes:
     TabsC.color-acento-contenido.mb-5
-      .py-3.py-md-4(titulo="Identificación de los estados financieros")
+      .py-3.py-md-4(titulo="Frecuencia de la información")
         .row
           .col-5.d-none.d-lg-block
             figure
@@ -504,7 +504,7 @@
         .h5 Figura 6
         p.mt-3 Clases de indicadores financieros
     figure.mt-4
-      img(src="@/assets/template/tema-2-15.png" , alt="Texto que describa la imagen")
+      img(src="@/assets/template/tema-2-15.svg" , alt="Texto que describa la imagen")
     p.mt-5 En el siguiente documento se presentan algunos de los indicadores más importantes, clasificados según las categorías descritas previamente, así como una breve explicación que ofrece una aproximación a las interpretaciones de éstos: 
     .row
       .col-10.offset-1
@@ -523,7 +523,7 @@
                         .anexo__texto
                           p Indicadores financieros categoria 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/DI_CF_5_2_5_indicadores_financieros_categoria.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download 
     .titulo-segundo.mt-5
@@ -545,7 +545,7 @@
         .cajon.color-acento-botones.p-4.mb-4
           p.m-0 Los indicadores de endeudamiento pueden relacionarse con los de liquidez para evaluar alternativas cuando no se cuenta con el dinero suficiente para mantener la operación. Algunas acciones que integradas pueden aportar a mitigar este tipo de problemáticas son las siguientes:
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta bg-verde-claro")
-      .row(titulo="Evaluar las políticas de inversión")
+      .row(titulo="Acudir a financiamiento externo")
         .row
           .col-2.offset-5.offset-lg-1
             figure

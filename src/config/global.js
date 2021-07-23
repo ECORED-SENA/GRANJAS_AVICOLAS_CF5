@@ -144,48 +144,48 @@ export default {
       referencia:
         'Burbano A. (2006) Costos y presupuestos. Segunda edición. Ediciones Uniandes.',
       link:
-        'https://es.scribd.com/read/436270130/Costos-y-presupuestos-Segunda-edicion.',
+        'https://es.scribd.com/read/436270130/Costos-y-presupuestos-Segunda-edicion',
     },
     {
       referencia:
         'Decreto ley 3743 de 1951. [Presidencia de la República] Por el cual se expide el Código Sustantivo del Trabajo. Diciembre 20 de 1950. ',
       link:
-        'http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html.',
+        'http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html',
     },
     {
       referencia:
         'Decreto 2420 de 2015 [Presidencia de la República] Por el cual se expide el Decreto Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información y se dictan otras disposiciones. Diciembre 14 de 2015.',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76745.',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76745',
     },
     {
       referencia:
         'Delgado F. (2020). Ejercicio de Kardex con promedio ponderado en EXCEL con plantilla GRATIS [video]. YouTube.   ',
-      link: 'https://www.youtube.com/watch?v=xYpt2IRFfgQ.',
+      link: 'https://www.youtube.com/watch?v=xYpt2IRFfgQ',
     },
     {
       referencia:
         'Guarnizo, F. C. y Cárdenas, S. M. (2015). “Costos por órdenes de producción y por procesos”. La Salle ',
       link:
-        'https://es.scribd.com/book/485288049/Costos-por-ordenes-de-produccion-y-por-procesos.',
+        'https://es.scribd.com/book/485288049/Costos-por-ordenes-de-produccion-y-por-procesos',
     },
     {
       referencia:
         'Ministerio del trabajo (2019)  “Cotización a la Seguridad Social – Aportes” ',
       link:
-        'https://www.mintrabajo.gov.co/empleo-y-pensiones/empleo/subdireccion-de-formalizacion-y-proteccion-del-empleo/formalizacion-laboral/cotizacion-a-la-seguridad-social-aportes.',
+        'https://www.mintrabajo.gov.co/empleo-y-pensiones/empleo/subdireccion-de-formalizacion-y-proteccion-del-empleo/formalizacion-laboral/cotizacion-a-la-seguridad-social-aportes',
     },
     {
       referencia:
         'Ministerio del trabajo (2019) “MiPymes representan más de 90% del sector productivo nacional y generan el 80% del empleo en Colombia: ministra Alicia Arango”',
       link:
-        'https://www.mintrabajo.gov.co/prensa/comunicados/2019/septiembre/mipymes-representan-mas-de-90-del-sector-productivo-nacional-y-generan-el-80-del-empleo-en-colombia-ministra-alicia-arango.',
+        'https://www.mintrabajo.gov.co/prensa/comunicados/2019/septiembre/mipymes-representan-mas-de-90-del-sector-productivo-nacional-y-generan-el-80-del-empleo-en-colombia-ministra-alicia-arango',
     },
     {
       referencia:
         'Rincón C. y Narváez J. (2017) Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL. Ediciones de la U. ',
       link:
-        'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL.',
+        'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
     },
   ],
   glosario: [
@@ -251,9 +251,9 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Andrés Felipe Avilan Lozano',
-        cargo: 'Experto temático',
-        centro: 'Centro Agropecuario la granja. Regional Tolima',
+        nombre: 'Maria Camila Garcia Santamaria',
+        cargo: 'Líder del equipo',
+        centro: 'Dirección General',
       },
     ],
     contenidoInstruccional: [
@@ -261,25 +261,64 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Silvia Milena Sequeda Cárdenas',
         cargo: 'Evaluadora Instruccional',
-        centro: 'Centro de gestión industrial. Regional Distrito Capital',
+        centro: 'Centro de gestión industrial - Regional Distrito Capital',
       },
-    ],
-    desarrolloProducto: [
+      {
+        nombre: 'Andrés Felipe Avilan Lozano',
+        cargo: 'Experto temático',
+        centro: 'Centro Agropecuario la Granja - Regional Tolima ',
+      },
       {
         nombre: 'Diana Marcela Luis Vásquez',
-        cargo: 'Diseñadora Instruccional',
-        centro: 'Centro de la Gestión industrial. Regional Distrito Capital',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
         nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Revisión de estilo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura. Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+    ],
+    desarrolloProducto: [
+      {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable equipo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Luis Fabian Robles Méndez',
+        cargo: 'Diseño web ',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Lizeth Karina Manchego Suárez ',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [

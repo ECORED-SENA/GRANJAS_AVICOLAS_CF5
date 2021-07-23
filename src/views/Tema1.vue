@@ -9,7 +9,7 @@
     .row.mt-4
       .col-12.col-lg-9
         p Los costos pueden definirse como las inversiones de las que se espera una retribución en el corto plazo; la mecánica usualmente implica la adquisición de los insumos, su posterior transformación y su almacenamiento como inventario para su posterior venta. 
-        p.mt-3 En este sentido, están estrechamente relacionados con la actividad misional de cualquier empresa y aportan material de discusión para la toma de decisiones estratégicas. Su papel es tan importante que las disciplinas contables y de gestión han dedicado mucho tiempo para diseñar sistemas de medición y clasificación que se adapten a las necesidades de cada industria o mercado
+        p.mt-3 En este sentido, están estrechamente relacionados con la actividad misional de cualquier empresa y aportan material de discusión para la toma de decisiones estratégicas. Su papel es tan importante que las disciplinas contables y de gestión han dedicado mucho tiempo para diseñar sistemas de medición y clasificación que se adapten a las necesidades de cada industria o mercado.
       .col-4.col-lg-3.offset-4.offset-lg-0
         figure
           img(src="@/assets/template/tema-1-1.png", alt="Texto que describa la imagen")
@@ -55,9 +55,10 @@
       .col-11.offset-1
         .h5 Figura 1
         p.mt-3 Costos asociados a la materia prima
-      figure.mt-4
-        img(src="@/assets/template/tema-1-5.png", alt="Texto que describa la imagen")
+      figure.mt-4.mb-5
+        img(src="@/assets/template/tema-1-5.svg", alt="Texto que describa la imagen")
         figcaption.mt-3 Referencia Nota. Elaboración propia a partir de Guarnizo y Cárdenas, (2015).
+    p.mb-5 El segundo elemento del costo comprende el trabajo efectuado por las personas involucradas en la producción y aplicado de una u otra forma en la transformación de la materia prima. Al igual que con la materia prima, puede clasificarse como mano de obra directa o indirecta.
     .row.mt-5
       .col-lg-6.offset-lg-3
         .tarjeta-avatar-b.mb-5
@@ -151,7 +152,7 @@
           .row(numero="2" titulo="El grupo 2")
             p Compuesto por empresas de capital privado que no cotizan en bolsa ni administran recursos de terceros, aplicarán las NIIF para Pequeñas y Medianas Entidades – PYMES. 
           .row(numero="3" titulo="El grupo 3")
-            p compuesto por microempresas (menos de 10 trabajadores y activos inferiores a 500 salarios mínimos mensuales legales vigentes), se regirá por un sistema de contabilidad simplificada. 
+            p Compuesto por microempresas (menos de 10 trabajadores y activos inferiores a 500 salarios mínimos mensuales legales vigentes), se regirá por un sistema de contabilidad simplificada. 
     .row.mt-5
       .h5 Figura 3
         p.mt-3 Normatividad contable en Colombia
@@ -305,7 +306,7 @@
     .h4.mt-5 Sistema de inventarios permanente
     p.mt-5 Haciendo uso de este modelo, es posible conocer el valor de la materia prima en cualquier momento. Para ello, es posible hacer uso de diversos sistemas:
     figure.mt-4
-      img(src="@/assets/template/tema-1-23.png" , alt="Texto que describa la imagen")
+      img(src="@/assets/template/tema-1-23.svg" , alt="Texto que describa la imagen")
     .row
       .col-10.offset-1
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mt-5
@@ -682,10 +683,6 @@
                 img(src="@/assets/template/tema-1-33.svg", alt="Texto que describa la imagen")
             .col-12.col-lg-9.align-self-center
               p Adicional a los elementos anteriores, los contratos laborales también acarrean pagos asociados a la seguridad social, el Ministerio del Trabajo publicó en su artículo “Cotización a la Seguridad Social – Aportes” la siguiente tabla:
-    .row.mt-5 
-      .col-10.col-lg-8.offset-1.offset-lg-2
-        .cajon.color-secundario.p-4.mb-4.bg-secundario-op25
-          p.m-0 Para definir cómo calcular el costo de los factores anteriores, es necesario considerar el tiempo necesario para hacerse acreedor a ellos. La prima y las cesantías corresponden a un mes de salario por cada año trabajado, por lo que puede calcularse una proporcionalidad de 1/12, o lo que es equivalente, el 8,33 %. Las vacaciones, por su parte, corresponden a una quincena por año trabajado, por lo que su proporción será del 4,17%. Lo anterior significa que cada mes, el empleado se beneficiará de unas prestaciones equivalentes a esa porción del salario. La siguiente tabla consolida lo descrito previamente: 
     .h4.mt-5.px-4.borde-acento-contenido-izq Tabla 8
     p.mt-4 Aportes obligatorios a seguridad social
     .row
@@ -985,7 +982,7 @@
                 th 300
     p.mt-5 Para definir los costos indirectos de fabricación de cada línea, será necesario prorratear con base a las horas de trabajo destinadas a cada línea de producto, posteriormente, y en función de las unidades elaboradas, se podrá definir el costo indirecto de fabricación unitario para cada tipo de producto.
     .h4.mt-5.px-4.borde-acento-contenido-izq Tabla 12
-    p.mt-4 Aportes obligatorios a seguridad social
+    p.mt-4 Asignación de costos indirectos de fabricación
     .row
       .col-10.col-lg-8.offset-1.offset-lg-2
         .tabla-a.color-acento-contenido.mt-4 
@@ -1013,7 +1010,7 @@
                 th 2.950.000
                 th 300
                 th 
-    p.mt-5 Una vez son definidos los costos unitarios de materia prima, mano de obra y costos indirectos de fabricación solo resta consolidarlos en una orden de producción para establecer el valor total que cuesta producirlos
+    p.mt-5 Una vez son definidos los costos unitarios de materia prima, mano de obra y costos indirectos de fabricación solo resta consolidarlos en una orden de producción para establecer el valor total que cuesta producirlos.
     .h4.mt-5 Aplicativos informáticos
     .row.mt-4
       .col-12.col-lg-7
